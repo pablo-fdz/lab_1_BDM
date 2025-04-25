@@ -1,0 +1,5 @@
+CREATE (:Keyword {name: "string"})<-[:HAS_KEYWORD]-(n6:Paper {title: "string", abstract: "string", doi: "string"})<-[:ASSIGNED_REVIEWER]-(:Author {name: "string"})-[:WROTE {corresponding: "bool"}]->(n2:Paper {title: "string", abstract: "string", doi: "string"})-[:PUBLISHED_IN {date_accepted: "date"}]->(n4:ProceedingEdition {number: "integer", start_date: "date", end_date: "date"})-[:HELD_IN]->(:Venue {venue_name: "string"}),
+(:Keyword {name: "string"})<-[:HAS_KEYWORD]-(n2)-[:CITES]->(n6)-[:HAS_KEYWORD]->(n8:Keyword {name: "string"}),
+(n2)-[:HAS_KEYWORD]->(n8),
+(:Journal {journal_name: "string"})-[:HAS_VOLUME]->(:JournalVolume {volume: "int", year: "int", issue: "int"})<-[:PUBLISHED_IN {accepted_date: "date", pages: "string"}]-(n6),
+(n4)-[:_RELATED]->({type: "string", name: "string"})
