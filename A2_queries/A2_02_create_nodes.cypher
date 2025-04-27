@@ -1,4 +1,6 @@
 //A2_02_create_nodes
+
+// Authors
 LOAD CSV WITH HEADERS FROM 'file:///data_lab1/authors.csv' AS row
 CREATE (:Author {id: toInteger(row.id), name: row.name});
 
@@ -10,9 +12,13 @@ CREATE (:Keyword {id: toInteger(row.id), name: row.name});
 LOAD CSV WITH HEADERS FROM 'file:///data_lab1/papers.csv' AS row
 CREATE (:Paper {id: toInteger(row.id), title: row.title, abstract: row.abstract, doi: row.doi});
 
-// Proceedings (conference editions)
+// Proceedings
 LOAD CSV WITH HEADERS FROM 'file:///data_lab1/proceedings.csv' AS row
-CREATE (:ProceedingEdition {id: toInteger(row.id), number: toInteger(row.number), start_date: date(row.start_date), end_date: date(row.end_date)});
+CREATE (:Proceeding {id: toInteger(row.id), proceeding_name: row.proceeding_name, proceeding_type: row.proceeding_type});
+
+// Proceeding editions
+LOAD CSV WITH HEADERS FROM 'file:///data_lab1/proceeding_editions.csv' AS row
+CREATE (:ProceedingEdition {id: toInteger(row.id), number: toInteger(row.number), start_date: date(row.start_date), end_date: date(row.end_date), proceeding_name: row.proceeding_name});
 
 // Venues
 LOAD CSV WITH HEADERS FROM 'file:///data_lab1/venues.csv' AS row
@@ -24,4 +30,4 @@ CREATE (:Journal {id: toInteger(row.id), journal_name: row.journal_name});
 
 // Journal Volumes
 LOAD CSV WITH HEADERS FROM 'file:///data_lab1/journal_volumes.csv' AS row
-CREATE (:JournalVolume {id: toInteger(row.id), volume: toInteger(row.volume), year: toInteger(row.year), issue: toInteger(row.issue)});
+CREATE (:JournalVolume {id: toInteger(row.id), volume: toInteger(row.volume), year: toInteger(row.year), issue: toInteger(row.issue), journal_name: row.journal_name});
