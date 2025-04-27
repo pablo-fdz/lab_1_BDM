@@ -1,4 +1,4 @@
----------------- Part B Querying--------------------
+//---------------- Part B Querying--------------------
 // 1. Find the top 3 most cited papers of each conference.
 MATCH (pe:ProceedingEdition)<-[:PUBLISHED_IN]-(p:Paper)<-[c:CITES]-()
 WITH pe, p, count(c) AS num_citations
