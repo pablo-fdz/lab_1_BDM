@@ -90,6 +90,11 @@ LOAD CSV WITH HEADERS FROM 'file:///data_lab1/related.csv' AS row
 MATCH (proceeding:ProceedingEdition {id: toInteger(row.proceeding_id)})
 CREATE (proceeding)-[:_RELATED]->(:Related {type: row.type, name: row.name});
 
+// HAS_VOLUME
+MATCH (j:Journal), (jv:JournalVolume)
+WHERE j.id = jv.id
+CREATE (j)-[:HAS_VOLUME]->(jv);
+
 7. Visualize the final graph: 
 MATCH (n)-[r]->(m) 
 RETURN n, r, m;
