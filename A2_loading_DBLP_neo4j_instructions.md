@@ -24,10 +24,10 @@ Steps used to convert the DBLP XML file to CSV format (see https://github.com/Th
    chmod +x XMLToCSV.py
    ```
 
-4. **Parse the XML file into a CSV** (example):
+4. **Parse the XML file into a CSV**:
    
    ```bash
-   python XMLToCSV.py --annotate --neo4j dblp.xml dblp.dtd output.csv --relations author:authored_by journal:published_in publisher:published_by school:submitted_at editor:edited_by cite:has_citation series:is_part_of
+   python XMLToCSV.py --annotate --neo4j dblp.xml dblp.dtd output.csv --relations author:authored_by journal:published_in cite:has_citation
    ```
    
    Options that can be specified (taken from the GitHub repo):
@@ -81,8 +81,6 @@ Steps used to convert the DBLP XML file to CSV format (see https://github.com/Th
    ├── output_cite_has_citation.csv
    ├── output_data.csv
    ├── output_data_header.csv
-   ├── output_editor.csv
-   ├── output_editor_edited_by.csv
    ├── output_incollection.csv
    ├── output_incollection_header.csv
    ├── output_inproceedings.csv
@@ -95,18 +93,12 @@ Steps used to convert the DBLP XML file to CSV format (see https://github.com/Th
    ├── output_phdthesis_header.csv
    ├── output_proceedings.csv
    ├── output_proceedings_header.csv
-   ├── output_publisher.csv
-   ├── output_publisher_published_by.csv
-   ├── output_school.csv
-   ├── output_school_submitted_at.csv
-   ├── output_series.csv
-   ├── output_series_is_part_of.csv
    ├── output_www.csv
    ├── output_www_header.csv
    ├── README.txt
    └── XMLToCSV.py
    ```
-
+   
 6. **The files follow this pattern**:
    
    - `output_[entity].csv` - Contains the entity data (nodes).
@@ -116,4 +108,108 @@ Steps used to convert the DBLP XML file to CSV format (see https://github.com/Th
 
 ## 2.2. Loading the data into Neo4j
 
-As a reference, see: https://neo4j.com/docs/cypher-manual/current/clauses/load-csv/#_import_csv_data_into_neo4j. For more efficient imports, check out the use of `neo4j-admin database import`: https://neo4j.com/docs/operations-manual/current/import/
+As a reference, see: https://neo4j.com/docs/cypher-manual/current/clauses/load-csv/#_import_csv_data_into_neo4j. For more efficient imports, check out the use of `neo4j-admin database import`: 
+
+- Basic tutorial: https://neo4j.com/docs/operations-manual/current/tutorial/neo4j-admin-import/
+- Documentation: https://neo4j.com/docs/operations-manual/current/import/.
+
+
+
+Steps that I have followed:
+
+1. Updating the file `neo4j_import.sh` to the current syntax (check out the documentation above for more information).
+
+   Before:
+
+   ``` bash
+   #!/bin/bash
+   neo4j-admin import --mode=csv --database=dblp.db --delimiter ";" --array-delimiter "|" --id-type INTEGER --nodes:incollection "output_incollection_header.csv,output_incollection.csv" --nodes:mastersthesis "output_mastersthesis_header.csv,output_mastersthesis.csv" --nodes:data "output_data_header.csv,output_data.csv" --nodes:proceedings "output_proceedings_header.csv,output_proceedings.csv" --nodes:inproceedings "output_inproceedings_header.csv,output_inproceedings.csv" --nodes:phdthesis "output_phdthesis_header.csv,output_phdthesis.csv" --nodes:book "output_book_header.csv,output_book.csv" --nodes:article "output_article_header.csv,output_article.csv" --nodes:www "output_www_header.csv,output_www.csv" --nodes:cite "output_cite.csv" --relationships:has_citation "output_cite_has_citation.csv" --nodes:journal "output_journal.csv" --relationships:published_in "output_journal_published_in.csv" --nodes:author "output_author.csv" --relationships:authored_by "output_author_authored_by.csv"
+   ```
+
+   After:
+
+   ```bash
+   #!/bin/bash
+   
+   # Create a database named 'dblp' with all the data from the CSV files
+   sudo -u neo4j neo4j-admin database import full \
+     --nodes=incollection="output_incollection_header.csv,output_incollection.csv" \
+     --nodes=mastersthesis="output_mastersthesis_header.csv,output_mastersthesis.csv" \
+     --nodes=data="output_data_header.csv,output_data.csv" \
+     --nodes=proceedings="output_proceedings_header.csv,output_proceedings.csv" \
+     --nodes=inproceedings="output_inproceedings_header.csv,output_inproceedings.csv" \
+     --nodes=phdthesis="output_phdthesis_header.csv,output_phdthesis.csv" \
+     --nodes=book="output_book_header.csv,output_book.csv" \
+     --nodes=article="output_article_header.csv,output_article.csv" \
+     --nodes=www="output_www_header.csv,output_www.csv" \
+     --nodes=cite="output_cite.csv" \
+     --relationships=has_citation="output_cite_has_citation.csv" \
+     --nodes=journal="output_journal.csv" \
+     --relationships=published_in="output_journal_published_in.csv" \
+     --nodes=author="output_author.csv" \
+     --relationships=authored_by="output_author_authored_by.csv" \
+     --delimiter=";" \
+     --array-delimiter="|" \
+     --id-type=INTEGER \
+     --skip-bad-relationships=true \
+     --skip-duplicate-nodes=true \
+     dblp
+   ```
+
+2. Copy the output files into the `import` directory of Neo4j (the command below is being executed in the directory where the outputs are stored):
+
+   ```bash
+   sudo cp output_*.csv /var/lib/neo4j/import/
+   ```
+
+3. Changing the working directory to the `import` directory of Neo4j:
+
+   ```bash
+   cd /var/lib/neo4j/import/
+   ```
+
+4. Paste the updated commands for creating the database in the terminal, and execute them. This returns (if successfully executed - only part of the output is displayed below):
+
+   ```
+   Starting to import, output will be saved to: /var/log/neo4j/neo4j-admin-import-2025-04-26.19.09.52.log
+   Neo4j version: 2025.03.0
+   Importing the contents of these files into /var/lib/neo4j/data/databases/dblp:
+   ...
+   IMPORT DONE in 25s 122ms. 
+   Imported:
+     15492465 nodes
+     33886108 relationships
+     117279448 properties
+   Peak memory usage: 1.171GiB
+   ```
+
+   Through this method, the database will be stored in the `/var/lib/neo4j/data/databases/dblp` folder.
+
+5. Remove the imported files in the directory in which they have been copied:
+
+   ```bash
+   sudo rm /var/lib/neo4j/import/output_*.csv
+   ```
+
+6. Check out the Neo4j databases:
+
+   ```bash
+   ls -la /var/lib/neo4j/data/databases/ 
+   ```
+
+   Which shows:
+
+   ```
+   total 12
+   drwxr-xr-x 3 neo4j adm   4096 Apr 26 19:00 .
+   drwxr-xr-x 6 neo4j adm   4096 Apr 16 19:20 ..
+   drwxrwxr-x 3 neo4j neo4j 4096 Apr 26 19:10 dblp
+   ```
+
+7. Ensure Neo4j has permissions to access the database:
+
+   ```bash
+   sudo chown -R neo4j:neo4j /var/lib/neo4j/data/databases/dblp
+   ```
+
+To be explored more in depth: https://community.neo4j.com/t/how-can-i-use-a-database-created-with-neo4j-admin-import-in-neo4j-desktop/40594; see also https://neo4j.com/docs/operations-manual/current/backup-restore/offline-backup/#offline-backup-example
