@@ -10,6 +10,11 @@ LOAD CSV WITH HEADERS FROM 'file:///data_lab1/wrote.csv' AS row
 MATCH (a:Author {id: toInteger(row.author_id)}), (p:Paper {id: toInteger(row.paper_id)})
 CREATE (a)-[:WROTE {corresponding: toBoolean(row.corresponding)}]->(p);
 
+// REVIEWED relationships (Author -> Paper)
+LOAD CSV WITH HEADERS FROM 'file:///data_lab1/reviewed.csv' AS row
+MATCH (a:Author {id: toInteger(row.author_id)}), (p:Paper {id: toInteger(row.paper_id)})
+CREATE (a)-[:REVIEWED {review_date: date(row.review_date)}]->(p);
+
 // HAS_KEYWORD relationships (Paper -> Keyword)
 LOAD CSV WITH HEADERS FROM 'file:///data_lab1/has_keyword.csv' AS row
 MATCH (p:Paper {id: toInteger(row.paper_id)}), (k:Keyword {id: toInteger(row.keyword_id)})

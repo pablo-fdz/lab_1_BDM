@@ -1,176 +1,116 @@
 id,number,start_date,end_date,proceeding_name
-1,1,2023-03-03,2023-03-06,"Woods, Martinez and Carter"
-2,2,2022-04-03,2022-04-06,"Woods, Martinez and Carter"
-3,3,2021-10-24,2021-10-27,"Woods, Martinez and Carter"
-4,4,2020-09-21,2020-09-24,"Woods, Martinez and Carter"
-5,5,2019-12-13,2019-12-16,"Woods, Martinez and Carter"
-6,6,2018-10-28,2018-10-31,"Woods, Martinez and Carter"
-7,7,2017-10-13,2017-10-16,"Woods, Martinez and Carter"
-8,8,2016-01-12,2016-01-15,"Woods, Martinez and Carter"
-9,9,2015-10-15,2015-10-18,"Woods, Martinez and Carter"
-10,10,2014-10-14,2014-10-17,"Woods, Martinez and Carter"
-11,11,2013-06-17,2013-06-20,"Woods, Martinez and Carter"
-12,12,2012-12-06,2012-12-09,"Woods, Martinez and Carter"
-13,13,2011-07-06,2011-07-09,"Woods, Martinez and Carter"
-14,14,2010-09-23,2010-09-26,"Woods, Martinez and Carter"
-15,1,2023-02-04,2023-02-07,"Reyes, Collins and Douglas"
-16,1,2023-06-09,2023-06-12,Hoffman-Valenzuela
-17,2,2022-07-18,2022-07-21,Hoffman-Valenzuela
-18,3,2021-03-19,2021-03-22,Hoffman-Valenzuela
-19,4,2020-02-24,2020-02-27,Hoffman-Valenzuela
-20,5,2019-06-28,2019-07-01,Hoffman-Valenzuela
-21,6,2018-05-23,2018-05-26,Hoffman-Valenzuela
-22,7,2017-04-24,2017-04-27,Hoffman-Valenzuela
-23,8,2016-04-10,2016-04-13,Hoffman-Valenzuela
-24,9,2015-01-25,2015-01-28,Hoffman-Valenzuela
-25,10,2014-07-18,2014-07-21,Hoffman-Valenzuela
-26,11,2013-03-01,2013-03-04,Hoffman-Valenzuela
-27,12,2012-12-12,2012-12-15,Hoffman-Valenzuela
-28,13,2011-08-24,2011-08-27,Hoffman-Valenzuela
-29,1,2023-10-26,2023-10-29,"Miller, Shelton and Young"
-30,2,2022-06-29,2022-07-02,"Miller, Shelton and Young"
-31,3,2021-07-02,2021-07-05,"Miller, Shelton and Young"
-32,4,2020-12-16,2020-12-19,"Miller, Shelton and Young"
-33,5,2019-09-02,2019-09-05,"Miller, Shelton and Young"
-34,6,2018-12-11,2018-12-14,"Miller, Shelton and Young"
-35,7,2017-04-16,2017-04-19,"Miller, Shelton and Young"
-36,8,2016-12-29,2017-01-01,"Miller, Shelton and Young"
-37,9,2015-08-03,2015-08-06,"Miller, Shelton and Young"
-38,10,2014-03-06,2014-03-09,"Miller, Shelton and Young"
-39,11,2013-09-28,2013-10-01,"Miller, Shelton and Young"
-40,12,2012-12-12,2012-12-15,"Miller, Shelton and Young"
-41,13,2011-09-22,2011-09-25,"Miller, Shelton and Young"
-42,14,2010-10-11,2010-10-14,"Miller, Shelton and Young"
-43,15,2009-03-29,2009-04-01,"Miller, Shelton and Young"
-44,16,2008-10-16,2008-10-19,"Miller, Shelton and Young"
-45,17,2007-01-25,2007-01-28,"Miller, Shelton and Young"
-46,18,2006-04-16,2006-04-19,"Miller, Shelton and Young"
-47,1,2023-04-14,2023-04-17,Fuentes LLC
-48,1,2023-11-05,2023-11-08,"Chapman, Sullivan and Matthews"
-49,2,2022-06-07,2022-06-10,"Chapman, Sullivan and Matthews"
-50,3,2021-04-01,2021-04-04,"Chapman, Sullivan and Matthews"
-51,4,2020-12-18,2020-12-21,"Chapman, Sullivan and Matthews"
-52,5,2019-12-10,2019-12-13,"Chapman, Sullivan and Matthews"
-53,6,2018-10-13,2018-10-16,"Chapman, Sullivan and Matthews"
-54,7,2017-06-12,2017-06-15,"Chapman, Sullivan and Matthews"
-55,8,2016-02-21,2016-02-24,"Chapman, Sullivan and Matthews"
-56,9,2015-12-24,2015-12-27,"Chapman, Sullivan and Matthews"
-57,10,2014-06-17,2014-06-20,"Chapman, Sullivan and Matthews"
-58,11,2013-04-02,2013-04-05,"Chapman, Sullivan and Matthews"
-59,12,2012-02-22,2012-02-25,"Chapman, Sullivan and Matthews"
-60,1,2023-10-10,2023-10-13,"Davis, Patterson and Peterson"
-61,2,2022-08-31,2022-09-03,"Davis, Patterson and Peterson"
-62,3,2021-08-29,2021-09-01,"Davis, Patterson and Peterson"
-63,4,2020-10-18,2020-10-21,"Davis, Patterson and Peterson"
-64,5,2019-02-12,2019-02-15,"Davis, Patterson and Peterson"
-65,6,2018-12-23,2018-12-26,"Davis, Patterson and Peterson"
-66,7,2017-04-14,2017-04-17,"Davis, Patterson and Peterson"
-67,8,2016-12-23,2016-12-26,"Davis, Patterson and Peterson"
-68,9,2015-03-02,2015-03-05,"Davis, Patterson and Peterson"
-69,10,2014-10-01,2014-10-04,"Davis, Patterson and Peterson"
-70,11,2013-12-30,2014-01-02,"Davis, Patterson and Peterson"
-71,12,2012-03-08,2012-03-11,"Davis, Patterson and Peterson"
-72,13,2011-02-26,2011-03-01,"Davis, Patterson and Peterson"
-73,14,2010-11-25,2010-11-28,"Davis, Patterson and Peterson"
-74,15,2009-02-21,2009-02-24,"Davis, Patterson and Peterson"
-75,1,2023-06-12,2023-06-15,Cunningham PLC
-76,2,2022-04-15,2022-04-18,Cunningham PLC
-77,3,2021-09-03,2021-09-06,Cunningham PLC
-78,4,2020-07-12,2020-07-15,Cunningham PLC
-79,5,2019-10-15,2019-10-18,Cunningham PLC
-80,6,2018-01-08,2018-01-11,Cunningham PLC
-81,1,2023-01-16,2023-01-19,Summers LLC
-82,2,2022-11-10,2022-11-13,Summers LLC
-83,3,2021-11-02,2021-11-05,Summers LLC
-84,4,2020-01-12,2020-01-15,Summers LLC
-85,5,2019-11-02,2019-11-05,Summers LLC
-86,6,2018-01-21,2018-01-24,Summers LLC
-87,7,2017-05-21,2017-05-24,Summers LLC
-88,8,2016-12-02,2016-12-05,Summers LLC
-89,9,2015-03-24,2015-03-27,Summers LLC
-90,10,2014-08-24,2014-08-27,Summers LLC
-91,1,2023-04-18,2023-04-21,Williams and Sons
-92,2,2022-02-21,2022-02-24,Williams and Sons
-93,3,2021-05-25,2021-05-28,Williams and Sons
-94,4,2020-08-28,2020-08-31,Williams and Sons
-95,5,2019-11-12,2019-11-15,Williams and Sons
-96,6,2018-08-28,2018-08-31,Williams and Sons
-97,7,2017-01-02,2017-01-05,Williams and Sons
-98,8,2016-01-20,2016-01-23,Williams and Sons
-99,9,2015-05-26,2015-05-29,Williams and Sons
-100,10,2014-09-03,2014-09-06,Williams and Sons
-101,11,2013-02-08,2013-02-11,Williams and Sons
-102,12,2012-05-21,2012-05-24,Williams and Sons
-103,13,2011-12-23,2011-12-26,Williams and Sons
-104,14,2010-09-20,2010-09-23,Williams and Sons
-105,15,2009-01-21,2009-01-24,Williams and Sons
-106,16,2008-12-16,2008-12-19,Williams and Sons
-107,17,2007-12-28,2007-12-31,Williams and Sons
-108,18,2006-09-12,2006-09-15,Williams and Sons
-109,19,2005-07-28,2005-07-31,Williams and Sons
-110,1,2023-02-08,2023-02-11,Jarvis-Thompson
-111,2,2022-09-22,2022-09-25,Jarvis-Thompson
-112,3,2021-05-20,2021-05-23,Jarvis-Thompson
-113,4,2020-09-03,2020-09-06,Jarvis-Thompson
-114,5,2019-01-04,2019-01-07,Jarvis-Thompson
-115,6,2018-02-16,2018-02-19,Jarvis-Thompson
-116,7,2017-09-13,2017-09-16,Jarvis-Thompson
-117,8,2016-11-03,2016-11-06,Jarvis-Thompson
-118,9,2015-02-16,2015-02-19,Jarvis-Thompson
-119,10,2014-06-21,2014-06-24,Jarvis-Thompson
-120,11,2013-10-01,2013-10-04,Jarvis-Thompson
-121,12,2012-12-17,2012-12-20,Jarvis-Thompson
-122,1,2023-09-16,2023-09-19,Lee Inc
-123,2,2022-09-02,2022-09-05,Lee Inc
-124,3,2021-03-04,2021-03-07,Lee Inc
-125,4,2020-10-27,2020-10-30,Lee Inc
-126,5,2019-01-18,2019-01-21,Lee Inc
-127,6,2018-11-02,2018-11-05,Lee Inc
-128,7,2017-09-06,2017-09-09,Lee Inc
-129,8,2016-02-25,2016-02-28,Lee Inc
-130,9,2015-07-10,2015-07-13,Lee Inc
-131,10,2014-08-03,2014-08-06,Lee Inc
-132,11,2013-10-22,2013-10-25,Lee Inc
-133,12,2012-07-20,2012-07-23,Lee Inc
-134,13,2011-02-17,2011-02-20,Lee Inc
-135,14,2010-06-22,2010-06-25,Lee Inc
-136,15,2009-03-30,2009-04-02,Lee Inc
-137,16,2008-11-08,2008-11-11,Lee Inc
-138,17,2007-09-06,2007-09-09,Lee Inc
-139,18,2006-04-03,2006-04-06,Lee Inc
-140,19,2005-07-16,2005-07-19,Lee Inc
-141,1,2023-08-02,2023-08-05,Johnson PLC
-142,2,2022-09-27,2022-09-30,Johnson PLC
-143,3,2021-05-29,2021-06-01,Johnson PLC
-144,4,2020-12-30,2021-01-02,Johnson PLC
-145,5,2019-09-15,2019-09-18,Johnson PLC
-146,1,2023-08-02,2023-08-05,Bell-Jimenez
-147,2,2022-03-02,2022-03-05,Bell-Jimenez
-148,3,2021-12-13,2021-12-16,Bell-Jimenez
-149,4,2020-09-23,2020-09-26,Bell-Jimenez
-150,5,2019-07-08,2019-07-11,Bell-Jimenez
-151,6,2018-06-07,2018-06-10,Bell-Jimenez
-152,7,2017-08-27,2017-08-30,Bell-Jimenez
-153,8,2016-02-24,2016-02-27,Bell-Jimenez
-154,9,2015-10-16,2015-10-19,Bell-Jimenez
-155,10,2014-08-27,2014-08-30,Bell-Jimenez
-156,11,2013-09-20,2013-09-23,Bell-Jimenez
-157,12,2012-01-21,2012-01-24,Bell-Jimenez
-158,13,2011-02-05,2011-02-08,Bell-Jimenez
-159,14,2010-03-02,2010-03-05,Bell-Jimenez
-160,15,2009-02-24,2009-02-27,Bell-Jimenez
-161,16,2008-03-01,2008-03-04,Bell-Jimenez
-162,17,2007-08-21,2007-08-24,Bell-Jimenez
-163,1,2023-05-21,2023-05-24,"Sandoval, Martinez and Hanson"
-164,2,2022-03-11,2022-03-14,"Sandoval, Martinez and Hanson"
-165,3,2021-07-17,2021-07-20,"Sandoval, Martinez and Hanson"
-166,4,2020-05-28,2020-05-31,"Sandoval, Martinez and Hanson"
-167,5,2019-04-16,2019-04-19,"Sandoval, Martinez and Hanson"
-168,6,2018-05-14,2018-05-17,"Sandoval, Martinez and Hanson"
-169,7,2017-02-14,2017-02-17,"Sandoval, Martinez and Hanson"
-170,8,2016-06-22,2016-06-25,"Sandoval, Martinez and Hanson"
-171,9,2015-07-14,2015-07-17,"Sandoval, Martinez and Hanson"
-172,10,2014-10-05,2014-10-08,"Sandoval, Martinez and Hanson"
-173,11,2013-02-16,2013-02-19,"Sandoval, Martinez and Hanson"
-174,12,2012-05-03,2012-05-06,"Sandoval, Martinez and Hanson"
-175,13,2011-06-17,2011-06-20,"Sandoval, Martinez and Hanson"
+1,1,2023-09-11,2023-09-14,Salas-Doyle
+2,2,2022-07-10,2022-07-13,Salas-Doyle
+3,3,2021-04-17,2021-04-20,Salas-Doyle
+4,1,2023-03-07,2023-03-10,Fitzgerald Group
+5,2,2022-07-26,2022-07-29,Fitzgerald Group
+6,1,2023-12-24,2023-12-27,"Nguyen, Schwartz and Mendoza"
+7,2,2022-04-06,2022-04-09,"Nguyen, Schwartz and Mendoza"
+8,3,2021-05-16,2021-05-19,"Nguyen, Schwartz and Mendoza"
+9,4,2020-01-28,2020-01-31,"Nguyen, Schwartz and Mendoza"
+10,5,2019-05-14,2019-05-17,"Nguyen, Schwartz and Mendoza"
+11,6,2018-03-11,2018-03-14,"Nguyen, Schwartz and Mendoza"
+12,7,2017-02-24,2017-02-27,"Nguyen, Schwartz and Mendoza"
+13,8,2016-01-18,2016-01-21,"Nguyen, Schwartz and Mendoza"
+14,9,2015-09-28,2015-10-01,"Nguyen, Schwartz and Mendoza"
+15,1,2023-05-31,2023-06-03,"Rodgers, Carlson and Hayes"
+16,2,2022-04-20,2022-04-23,"Rodgers, Carlson and Hayes"
+17,3,2021-08-16,2021-08-19,"Rodgers, Carlson and Hayes"
+18,4,2020-01-15,2020-01-18,"Rodgers, Carlson and Hayes"
+19,5,2019-02-19,2019-02-22,"Rodgers, Carlson and Hayes"
+20,6,2018-06-17,2018-06-20,"Rodgers, Carlson and Hayes"
+21,7,2017-09-16,2017-09-19,"Rodgers, Carlson and Hayes"
+22,8,2016-10-20,2016-10-23,"Rodgers, Carlson and Hayes"
+23,1,2023-11-01,2023-11-04,Briggs-Perry
+24,1,2023-07-07,2023-07-10,Alvarez-Rios
+25,2,2022-04-03,2022-04-06,Alvarez-Rios
+26,3,2021-04-17,2021-04-20,Alvarez-Rios
+27,4,2020-05-01,2020-05-04,Alvarez-Rios
+28,5,2019-06-02,2019-06-05,Alvarez-Rios
+29,6,2018-10-22,2018-10-25,Alvarez-Rios
+30,7,2017-09-26,2017-09-29,Alvarez-Rios
+31,8,2016-05-28,2016-05-31,Alvarez-Rios
+32,9,2015-08-24,2015-08-27,Alvarez-Rios
+33,10,2014-05-07,2014-05-10,Alvarez-Rios
+34,11,2013-12-03,2013-12-06,Alvarez-Rios
+35,12,2012-08-21,2012-08-24,Alvarez-Rios
+36,13,2011-04-20,2011-04-23,Alvarez-Rios
+37,14,2010-05-20,2010-05-23,Alvarez-Rios
+38,15,2009-01-24,2009-01-27,Alvarez-Rios
+39,16,2008-02-07,2008-02-10,Alvarez-Rios
+40,1,2023-11-20,2023-11-23,"Velasquez, Rogers and Trevino"
+41,2,2022-03-12,2022-03-15,"Velasquez, Rogers and Trevino"
+42,3,2021-06-06,2021-06-09,"Velasquez, Rogers and Trevino"
+43,4,2020-05-26,2020-05-29,"Velasquez, Rogers and Trevino"
+44,5,2019-07-05,2019-07-08,"Velasquez, Rogers and Trevino"
+45,6,2018-12-16,2018-12-19,"Velasquez, Rogers and Trevino"
+46,7,2017-04-18,2017-04-21,"Velasquez, Rogers and Trevino"
+47,8,2016-09-22,2016-09-25,"Velasquez, Rogers and Trevino"
+48,9,2015-06-16,2015-06-19,"Velasquez, Rogers and Trevino"
+49,10,2014-08-14,2014-08-17,"Velasquez, Rogers and Trevino"
+50,11,2013-02-10,2013-02-13,"Velasquez, Rogers and Trevino"
+51,12,2012-09-13,2012-09-16,"Velasquez, Rogers and Trevino"
+52,13,2011-05-26,2011-05-29,"Velasquez, Rogers and Trevino"
+53,14,2010-04-07,2010-04-10,"Velasquez, Rogers and Trevino"
+54,15,2009-09-16,2009-09-19,"Velasquez, Rogers and Trevino"
+55,16,2008-06-06,2008-06-09,"Velasquez, Rogers and Trevino"
+56,1,2023-02-13,2023-02-16,Hanna Inc
+57,2,2022-10-12,2022-10-15,Hanna Inc
+58,3,2021-08-14,2021-08-17,Hanna Inc
+59,4,2020-03-26,2020-03-29,Hanna Inc
+60,5,2019-06-09,2019-06-12,Hanna Inc
+61,6,2018-12-24,2018-12-27,Hanna Inc
+62,7,2017-10-21,2017-10-24,Hanna Inc
+63,8,2016-10-04,2016-10-07,Hanna Inc
+64,9,2015-10-19,2015-10-22,Hanna Inc
+65,10,2014-11-09,2014-11-12,Hanna Inc
+66,11,2013-03-14,2013-03-17,Hanna Inc
+67,12,2012-03-28,2012-03-31,Hanna Inc
+68,13,2011-03-10,2011-03-13,Hanna Inc
+69,14,2010-08-30,2010-09-02,Hanna Inc
+70,15,2009-04-14,2009-04-17,Hanna Inc
+71,16,2008-08-16,2008-08-19,Hanna Inc
+72,17,2007-09-27,2007-09-30,Hanna Inc
+73,18,2006-05-10,2006-05-13,Hanna Inc
+74,19,2005-07-07,2005-07-10,Hanna Inc
+75,20,2004-09-30,2004-10-03,Hanna Inc
+76,1,2023-07-15,2023-07-18,Hall Ltd
+77,2,2022-04-09,2022-04-12,Hall Ltd
+78,3,2021-08-29,2021-09-01,Hall Ltd
+79,4,2020-09-28,2020-10-01,Hall Ltd
+80,5,2019-04-20,2019-04-23,Hall Ltd
+81,1,2023-04-06,2023-04-09,"Garcia, Wilson and Jones"
+82,2,2022-03-22,2022-03-25,"Garcia, Wilson and Jones"
+83,3,2021-12-24,2021-12-27,"Garcia, Wilson and Jones"
+84,4,2020-07-12,2020-07-15,"Garcia, Wilson and Jones"
+85,5,2019-07-23,2019-07-26,"Garcia, Wilson and Jones"
+86,6,2018-10-06,2018-10-09,"Garcia, Wilson and Jones"
+87,7,2017-11-13,2017-11-16,"Garcia, Wilson and Jones"
+88,8,2016-05-26,2016-05-29,"Garcia, Wilson and Jones"
+89,9,2015-08-19,2015-08-22,"Garcia, Wilson and Jones"
+90,10,2014-11-22,2014-11-25,"Garcia, Wilson and Jones"
+91,11,2013-01-19,2013-01-22,"Garcia, Wilson and Jones"
+92,12,2012-01-01,2012-01-04,"Garcia, Wilson and Jones"
+93,13,2011-08-13,2011-08-16,"Garcia, Wilson and Jones"
+94,1,2023-07-09,2023-07-12,"Kelley, James and Cole"
+95,1,2023-07-01,2023-07-04,"Ramirez, Castillo and Bryant"
+96,2,2022-11-27,2022-11-30,"Ramirez, Castillo and Bryant"
+97,3,2021-01-28,2021-01-31,"Ramirez, Castillo and Bryant"
+98,4,2020-02-23,2020-02-26,"Ramirez, Castillo and Bryant"
+99,5,2019-02-24,2019-02-27,"Ramirez, Castillo and Bryant"
+100,6,2018-11-06,2018-11-09,"Ramirez, Castillo and Bryant"
+101,1,2023-09-02,2023-09-05,Blackwell-Brennan
+102,2,2022-10-04,2022-10-07,Blackwell-Brennan
+103,3,2021-04-04,2021-04-07,Blackwell-Brennan
+104,1,2023-01-18,2023-01-21,Yoder PLC
+105,2,2022-02-04,2022-02-07,Yoder PLC
+106,3,2021-07-16,2021-07-19,Yoder PLC
+107,1,2023-02-06,2023-02-09,"Fernandez, Harrington and Jordan"
+108,2,2022-10-12,2022-10-15,"Fernandez, Harrington and Jordan"
+109,3,2021-07-30,2021-08-02,"Fernandez, Harrington and Jordan"
+110,4,2020-05-21,2020-05-24,"Fernandez, Harrington and Jordan"
+111,5,2019-12-07,2019-12-10,"Fernandez, Harrington and Jordan"
+112,6,2018-01-17,2018-01-20,"Fernandez, Harrington and Jordan"
+113,7,2017-05-03,2017-05-06,"Fernandez, Harrington and Jordan"
+114,8,2016-04-29,2016-05-02,"Fernandez, Harrington and Jordan"
+115,9,2015-01-12,2015-01-15,"Fernandez, Harrington and Jordan"
