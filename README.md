@@ -2,7 +2,9 @@
 
 Brief instructions on how to run and locate all of the data and queries to complete the assignment. 
 
-# A.1. Modeling
+# A. Modeling, loading, evolving
+
+## A.1. Modeling
 
 Check out the graph diagram in `lab_1_gdb_A1_v1.png`.
 
@@ -21,7 +23,7 @@ The graph can then be visualized by running:
 MATCH (n)-[r]->(m) RETURN n, r, m
 ```
 
-# A.2. Instantiation/loading
+## A.2. Instantiation/loading
 
 1. First of all, run the Jupyter Notebook `lab_1_gdb_A2_data_generation.ipynb`, which will create fake data (both nodes and edges) that fits the description in A.1. and save it in different `.csv` files, under the folder `data_lab1`.
 2. Second, create a new local DBMS in Neo4j. Using the graphical interface of *Neo4j desktop*, this can be done by:
@@ -34,7 +36,7 @@ MATCH (n)-[r]->(m) RETURN n, r, m
 5. Import the `.cypher` queries in the folder `A2_queries` (e.g., by dragging the script into the *Neo4j browser* visual interface).
 6. Execute them for creating the graph, populating it with data and visualizing the result. 
 
-# A.3. Evolving the graph
+## A.3. Evolving the graph
 
 Check out the resulting diagram after applying the required transformations in the assignment in ` lab_1_gdb_A3_v1.png`.
 
@@ -45,4 +47,8 @@ Check out the resulting diagram after applying the required transformations in t
    - `A3_03` to `A3_05` instantiate the new properties with the data created in  `authors_additional_properties.csv` and `reviewed_additional_properties.csv`.
    - `A3_06` simply shows which papers have a rejection rate larger than 50% (i.e., they should be rejected and the `PUBLISHED_IN` edge, removed).
    - `A3_07` actually removes the `PUBLISHED_IN` edges of a paper if the majority of the reviewing authors suggest the rejection of the paper.
+
+# B. Cypher instantiation queries
+
+For implementing the queries, just create and instantiate the data as specified in section A and execute the Cypher queries stored in the `B_queries` folder.
 
