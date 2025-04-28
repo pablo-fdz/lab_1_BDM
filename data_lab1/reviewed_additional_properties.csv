@@ -1,0 +1,431 @@
+author_id,paper_id,description,suggested_acceptance
+44,1,An innovative approach is introduced in a new framework for natural language processing. The approach lacks sufficient experimental support. The paper should be rejected due to insufficient contributions.,False
+46,1,An innovative approach is introduced in a novel method for data analysis. The methodology is sound and well-explained. Accept with enthusiasm.,True
+26,1,The authors propose a new framework for natural language processing. The approach lacks sufficient experimental support. I recommend acceptance after minor revisions.,True
+49,1,The authors propose an experimental evaluation of neural networks. The paper is well-structured and easy to follow. The methodology is flawed and lacks rigor.,False
+12,1,A comprehensive study is conducted on an experimental evaluation of neural networks. The paper is well-structured and easy to follow. Accept with enthusiasm.,True
+31,2,This paper presents an experimental evaluation of neural networks. Results are promising but require further validation. Accept with enthusiasm.,True
+5,2,The manuscript explores a novel method for data analysis. The approach lacks sufficient experimental support. Consider for a poster presentation.,True
+45,2,An innovative approach is introduced in a novel method for data analysis. Some claims are not adequately substantiated. I recommend acceptance after minor revisions.,True
+17,3,The authors propose a theoretical model for quantum computing. The approach lacks sufficient experimental support. The paper fails to make a significant contribution.,False
+43,4,The manuscript explores an experimental evaluation of neural networks. Results are promising but require further validation. Accept with enthusiasm.,True
+3,5,An innovative approach is introduced in a novel method for data analysis. The methodology is sound and well-explained. The results do not support the conclusions drawn.,False
+25,5,The authors propose a new framework for natural language processing. The methodology is sound and well-explained. Major revisions are necessary before acceptance.,True
+17,5,The manuscript explores an in-depth review of machine learning techniques. The approach lacks sufficient experimental support. Major revisions are necessary before acceptance.,True
+32,5,The manuscript explores an in-depth review of machine learning techniques. The paper is well-structured and easy to follow. The paper fails to make a significant contribution.,False
+11,5,The authors propose a new framework for natural language processing. Some claims are not adequately substantiated. The results do not support the conclusions drawn.,False
+49,6,The manuscript explores a theoretical model for quantum computing. The paper is well-structured and easy to follow. The paper should be rejected due to insufficient contributions.,False
+14,7,This paper presents a theoretical model for quantum computing. Results are promising but require further validation. The methodology is flawed and lacks rigor.,False
+46,7,The authors propose a novel method for data analysis. Some claims are not adequately substantiated. Accept with enthusiasm.,True
+31,7,The manuscript explores a new framework for natural language processing. The methodology is sound and well-explained. Consider for a poster presentation.,True
+2,8,The manuscript explores a novel method for data analysis. The methodology is sound and well-explained. The results do not support the conclusions drawn.,False
+45,8,An innovative approach is introduced in a novel method for data analysis. The approach lacks sufficient experimental support. The results do not support the conclusions drawn.,False
+7,8,The authors propose an experimental evaluation of neural networks. The paper is well-structured and easy to follow. The results do not support the conclusions drawn.,False
+49,8,An innovative approach is introduced in an in-depth review of machine learning techniques. Results are promising but require further validation. Major revisions are necessary before acceptance.,True
+3,8,A comprehensive study is conducted on a novel method for data analysis. Results are promising but require further validation. Consider for a poster presentation.,True
+38,9,The manuscript explores a theoretical model for quantum computing. The methodology is sound and well-explained. The methodology is flawed and lacks rigor.,False
+29,9,The manuscript explores an experimental evaluation of neural networks. Some claims are not adequately substantiated. Accept with enthusiasm.,True
+2,9,The authors propose a new framework for natural language processing. Some claims are not adequately substantiated. The paper should be rejected due to insufficient contributions.,False
+37,10,The authors propose a theoretical model for quantum computing. Results are promising but require further validation. Major revisions are necessary before acceptance.,True
+26,10,The manuscript explores an in-depth review of machine learning techniques. The methodology is sound and well-explained. I recommend acceptance after minor revisions.,True
+21,10,A comprehensive study is conducted on a theoretical model for quantum computing. The methodology is sound and well-explained. Major revisions are necessary before acceptance.,True
+9,10,This paper presents an in-depth review of machine learning techniques. Results are promising but require further validation. I recommend acceptance after minor revisions.,True
+16,10,The authors propose a new framework for natural language processing. The approach lacks sufficient experimental support. The paper should be rejected due to insufficient contributions.,False
+31,11,The manuscript explores a new framework for natural language processing. The paper is well-structured and easy to follow. Consider for a poster presentation.,True
+32,11,The authors propose an experimental evaluation of neural networks. The paper is well-structured and easy to follow. I recommend acceptance after minor revisions.,True
+13,11,A comprehensive study is conducted on a new framework for natural language processing. The methodology is sound and well-explained. I recommend acceptance after minor revisions.,True
+18,11,A comprehensive study is conducted on a new framework for natural language processing. Some claims are not adequately substantiated. The paper should be rejected due to insufficient contributions.,False
+24,11,The authors propose an in-depth review of machine learning techniques. Results are promising but require further validation. The paper should be rejected due to insufficient contributions.,False
+49,12,The manuscript explores an experimental evaluation of neural networks. Results are promising but require further validation. Major revisions are necessary before acceptance.,True
+31,13,A comprehensive study is conducted on an experimental evaluation of neural networks. Some claims are not adequately substantiated. Consider for a poster presentation.,True
+25,13,A comprehensive study is conducted on a new framework for natural language processing. The approach lacks sufficient experimental support. I recommend acceptance after minor revisions.,True
+35,13,This paper presents an in-depth review of machine learning techniques. Results are promising but require further validation. The paper should be rejected due to insufficient contributions.,False
+1,14,An innovative approach is introduced in an experimental evaluation of neural networks. The paper is well-structured and easy to follow. The paper fails to make a significant contribution.,False
+5,14,This paper presents an in-depth review of machine learning techniques. The methodology is sound and well-explained. Major revisions are necessary before acceptance.,True
+15,14,This paper presents a novel method for data analysis. Some claims are not adequately substantiated. Accept with enthusiasm.,True
+13,15,The authors propose an experimental evaluation of neural networks. The paper is well-structured and easy to follow. I recommend acceptance after minor revisions.,True
+47,15,A comprehensive study is conducted on a new framework for natural language processing. The methodology is sound and well-explained. The paper should be rejected due to insufficient contributions.,False
+7,15,A comprehensive study is conducted on a theoretical model for quantum computing. The approach lacks sufficient experimental support. The paper fails to make a significant contribution.,False
+17,16,An innovative approach is introduced in a theoretical model for quantum computing. The approach lacks sufficient experimental support. The paper should be rejected due to insufficient contributions.,False
+48,17,A comprehensive study is conducted on a new framework for natural language processing. The methodology is sound and well-explained. Major revisions are necessary before acceptance.,True
+21,18,The manuscript explores a novel method for data analysis. Results are promising but require further validation. The paper fails to make a significant contribution.,False
+32,18,The authors propose a novel method for data analysis. Results are promising but require further validation. I recommend acceptance after minor revisions.,True
+26,18,A comprehensive study is conducted on an experimental evaluation of neural networks. The approach lacks sufficient experimental support. Accept with enthusiasm.,True
+42,19,The authors propose a novel method for data analysis. The approach lacks sufficient experimental support. Consider for a poster presentation.,True
+38,19,The authors propose a theoretical model for quantum computing. The approach lacks sufficient experimental support. Consider for a poster presentation.,True
+48,19,An innovative approach is introduced in a theoretical model for quantum computing. The paper is well-structured and easy to follow. I recommend acceptance after minor revisions.,True
+43,19,An innovative approach is introduced in a novel method for data analysis. Some claims are not adequately substantiated. Consider for a poster presentation.,True
+12,19,The authors propose a novel method for data analysis. The methodology is sound and well-explained. The paper should be rejected due to insufficient contributions.,False
+42,20,The manuscript explores a new framework for natural language processing. Some claims are not adequately substantiated. Accept with enthusiasm.,True
+49,20,An innovative approach is introduced in an in-depth review of machine learning techniques. The approach lacks sufficient experimental support. The paper fails to make a significant contribution.,False
+18,20,This paper presents a new framework for natural language processing. The approach lacks sufficient experimental support. I recommend acceptance after minor revisions.,True
+39,20,An innovative approach is introduced in an in-depth review of machine learning techniques. The methodology is sound and well-explained. Major revisions are necessary before acceptance.,True
+1,20,An innovative approach is introduced in an experimental evaluation of neural networks. The approach lacks sufficient experimental support. Major revisions are necessary before acceptance.,True
+42,21,This paper presents a novel method for data analysis. Results are promising but require further validation. I recommend acceptance after minor revisions.,True
+33,22,This paper presents an experimental evaluation of neural networks. Results are promising but require further validation. The methodology is flawed and lacks rigor.,False
+31,22,The manuscript explores an experimental evaluation of neural networks. Results are promising but require further validation. I recommend acceptance after minor revisions.,True
+46,22,The manuscript explores a novel method for data analysis. Some claims are not adequately substantiated. The paper fails to make a significant contribution.,False
+5,22,The authors propose a novel method for data analysis. The methodology is sound and well-explained. The paper should be rejected due to insufficient contributions.,False
+26,22,The authors propose a new framework for natural language processing. Some claims are not adequately substantiated. The paper should be rejected due to insufficient contributions.,False
+21,23,A comprehensive study is conducted on a new framework for natural language processing. Results are promising but require further validation. Accept with enthusiasm.,True
+14,23,A comprehensive study is conducted on an experimental evaluation of neural networks. The approach lacks sufficient experimental support. Accept with enthusiasm.,True
+38,23,A comprehensive study is conducted on an experimental evaluation of neural networks. The paper is well-structured and easy to follow. Accept with enthusiasm.,True
+3,23,This paper presents an in-depth review of machine learning techniques. The methodology is sound and well-explained. Accept with enthusiasm.,True
+8,23,A comprehensive study is conducted on a new framework for natural language processing. Results are promising but require further validation. Accept with enthusiasm.,True
+3,24,The authors propose a new framework for natural language processing. Some claims are not adequately substantiated. Accept with enthusiasm.,True
+18,24,An innovative approach is introduced in a theoretical model for quantum computing. The approach lacks sufficient experimental support. Major revisions are necessary before acceptance.,True
+20,24,The manuscript explores a new framework for natural language processing. The approach lacks sufficient experimental support. Accept with enthusiasm.,True
+29,24,This paper presents an in-depth review of machine learning techniques. The paper is well-structured and easy to follow. Accept with enthusiasm.,True
+25,24,An innovative approach is introduced in an in-depth review of machine learning techniques. The methodology is sound and well-explained. The results do not support the conclusions drawn.,False
+23,25,This paper presents a new framework for natural language processing. Results are promising but require further validation. I recommend acceptance after minor revisions.,True
+38,26,A comprehensive study is conducted on a new framework for natural language processing. The methodology is sound and well-explained. Major revisions are necessary before acceptance.,True
+44,26,The authors propose an in-depth review of machine learning techniques. The approach lacks sufficient experimental support. The paper fails to make a significant contribution.,False
+43,26,The manuscript explores an experimental evaluation of neural networks. Some claims are not adequately substantiated. Major revisions are necessary before acceptance.,True
+15,26,The manuscript explores an experimental evaluation of neural networks. The paper is well-structured and easy to follow. Accept with enthusiasm.,True
+5,26,The manuscript explores an in-depth review of machine learning techniques. The paper is well-structured and easy to follow. The paper should be rejected due to insufficient contributions.,False
+16,27,The manuscript explores an experimental evaluation of neural networks. The approach lacks sufficient experimental support. Consider for a poster presentation.,True
+27,28,An innovative approach is introduced in a new framework for natural language processing. The paper is well-structured and easy to follow. Major revisions are necessary before acceptance.,True
+23,28,The manuscript explores a new framework for natural language processing. The approach lacks sufficient experimental support. I recommend acceptance after minor revisions.,True
+40,28,This paper presents a novel method for data analysis. Some claims are not adequately substantiated. The results do not support the conclusions drawn.,False
+47,29,The manuscript explores an experimental evaluation of neural networks. The paper is well-structured and easy to follow. Consider for a poster presentation.,True
+36,30,A comprehensive study is conducted on an in-depth review of machine learning techniques. The paper is well-structured and easy to follow. Consider for a poster presentation.,True
+18,30,The manuscript explores an experimental evaluation of neural networks. Some claims are not adequately substantiated. I recommend acceptance after minor revisions.,True
+30,30,The manuscript explores an in-depth review of machine learning techniques. Some claims are not adequately substantiated. Major revisions are necessary before acceptance.,True
+19,30,The manuscript explores a new framework for natural language processing. Some claims are not adequately substantiated. Accept with enthusiasm.,True
+24,30,A comprehensive study is conducted on a new framework for natural language processing. The paper is well-structured and easy to follow. Major revisions are necessary before acceptance.,True
+22,31,The manuscript explores an experimental evaluation of neural networks. The paper is well-structured and easy to follow. I recommend acceptance after minor revisions.,True
+46,31,A comprehensive study is conducted on a new framework for natural language processing. Results are promising but require further validation. The results do not support the conclusions drawn.,False
+31,31,A comprehensive study is conducted on an experimental evaluation of neural networks. Some claims are not adequately substantiated. Major revisions are necessary before acceptance.,True
+12,31,A comprehensive study is conducted on an in-depth review of machine learning techniques. Results are promising but require further validation. Major revisions are necessary before acceptance.,True
+37,31,The authors propose an experimental evaluation of neural networks. The approach lacks sufficient experimental support. The paper should be rejected due to insufficient contributions.,False
+31,32,This paper presents a novel method for data analysis. The paper is well-structured and easy to follow. Major revisions are necessary before acceptance.,True
+33,32,An innovative approach is introduced in an experimental evaluation of neural networks. Some claims are not adequately substantiated. Consider for a poster presentation.,True
+42,32,The authors propose a novel method for data analysis. The methodology is sound and well-explained. Consider for a poster presentation.,True
+20,33,An innovative approach is introduced in a new framework for natural language processing. The paper is well-structured and easy to follow. Accept with enthusiasm.,True
+10,34,The manuscript explores a theoretical model for quantum computing. Some claims are not adequately substantiated. Major revisions are necessary before acceptance.,True
+12,35,This paper presents an in-depth review of machine learning techniques. The paper is well-structured and easy to follow. Major revisions are necessary before acceptance.,True
+34,36,A comprehensive study is conducted on a theoretical model for quantum computing. Some claims are not adequately substantiated. I recommend acceptance after minor revisions.,True
+9,36,The authors propose an experimental evaluation of neural networks. The paper is well-structured and easy to follow. Consider for a poster presentation.,True
+25,36,The manuscript explores a novel method for data analysis. Results are promising but require further validation. Consider for a poster presentation.,True
+22,36,The manuscript explores a new framework for natural language processing. The approach lacks sufficient experimental support. Consider for a poster presentation.,True
+4,36,The manuscript explores a novel method for data analysis. Results are promising but require further validation. The results do not support the conclusions drawn.,False
+33,37,This paper presents a theoretical model for quantum computing. The approach lacks sufficient experimental support. The paper should be rejected due to insufficient contributions.,False
+20,37,The authors propose a theoretical model for quantum computing. Results are promising but require further validation. Major revisions are necessary before acceptance.,True
+23,37,The authors propose a new framework for natural language processing. The approach lacks sufficient experimental support. Major revisions are necessary before acceptance.,True
+36,38,This paper presents an experimental evaluation of neural networks. The methodology is sound and well-explained. Major revisions are necessary before acceptance.,True
+32,39,The authors propose a new framework for natural language processing. Some claims are not adequately substantiated. The paper fails to make a significant contribution.,False
+46,40,An innovative approach is introduced in a new framework for natural language processing. Some claims are not adequately substantiated. Major revisions are necessary before acceptance.,True
+5,40,A comprehensive study is conducted on a novel method for data analysis. Results are promising but require further validation. The paper fails to make a significant contribution.,False
+24,40,The manuscript explores a novel method for data analysis. Some claims are not adequately substantiated. Consider for a poster presentation.,True
+2,40,A comprehensive study is conducted on an experimental evaluation of neural networks. Some claims are not adequately substantiated. The results do not support the conclusions drawn.,False
+35,40,The authors propose an experimental evaluation of neural networks. Some claims are not adequately substantiated. I recommend acceptance after minor revisions.,True
+17,41,This paper presents a novel method for data analysis. The approach lacks sufficient experimental support. I recommend acceptance after minor revisions.,True
+12,42,The manuscript explores a new framework for natural language processing. Some claims are not adequately substantiated. Major revisions are necessary before acceptance.,True
+21,42,A comprehensive study is conducted on a new framework for natural language processing. The paper is well-structured and easy to follow. The paper fails to make a significant contribution.,False
+4,42,The authors propose an experimental evaluation of neural networks. The methodology is sound and well-explained. The methodology is flawed and lacks rigor.,False
+27,42,The authors propose a new framework for natural language processing. The approach lacks sufficient experimental support. The paper should be rejected due to insufficient contributions.,False
+2,42,This paper presents a new framework for natural language processing. The paper is well-structured and easy to follow. I recommend acceptance after minor revisions.,True
+26,43,The manuscript explores a novel method for data analysis. Results are promising but require further validation. Major revisions are necessary before acceptance.,True
+45,43,An innovative approach is introduced in a novel method for data analysis. The approach lacks sufficient experimental support. Consider for a poster presentation.,True
+50,43,The authors propose a theoretical model for quantum computing. Some claims are not adequately substantiated. Major revisions are necessary before acceptance.,True
+27,44,The manuscript explores a new framework for natural language processing. Some claims are not adequately substantiated. Consider for a poster presentation.,True
+12,44,This paper presents a theoretical model for quantum computing. Results are promising but require further validation. The results do not support the conclusions drawn.,False
+43,44,The authors propose an experimental evaluation of neural networks. Some claims are not adequately substantiated. I recommend acceptance after minor revisions.,True
+34,44,This paper presents a new framework for natural language processing. The paper is well-structured and easy to follow. Consider for a poster presentation.,True
+35,44,An innovative approach is introduced in an in-depth review of machine learning techniques. Some claims are not adequately substantiated. Accept with enthusiasm.,True
+38,45,An innovative approach is introduced in a novel method for data analysis. Some claims are not adequately substantiated. The paper should be rejected due to insufficient contributions.,False
+27,46,This paper presents an in-depth review of machine learning techniques. Results are promising but require further validation. Accept with enthusiasm.,True
+8,46,A comprehensive study is conducted on a theoretical model for quantum computing. The paper is well-structured and easy to follow. Consider for a poster presentation.,True
+37,46,This paper presents an in-depth review of machine learning techniques. Results are promising but require further validation. The methodology is flawed and lacks rigor.,False
+34,47,A comprehensive study is conducted on an experimental evaluation of neural networks. The methodology is sound and well-explained. Major revisions are necessary before acceptance.,True
+2,47,This paper presents a new framework for natural language processing. The paper is well-structured and easy to follow. The results do not support the conclusions drawn.,False
+30,47,An innovative approach is introduced in a new framework for natural language processing. The paper is well-structured and easy to follow. Accept with enthusiasm.,True
+37,47,The authors propose a theoretical model for quantum computing. The approach lacks sufficient experimental support. Major revisions are necessary before acceptance.,True
+33,47,The manuscript explores a new framework for natural language processing. Some claims are not adequately substantiated. Consider for a poster presentation.,True
+6,48,The manuscript explores a theoretical model for quantum computing. Results are promising but require further validation. The paper fails to make a significant contribution.,False
+28,48,The authors propose a novel method for data analysis. The methodology is sound and well-explained. Consider for a poster presentation.,True
+38,48,An innovative approach is introduced in an in-depth review of machine learning techniques. The methodology is sound and well-explained. Accept with enthusiasm.,True
+24,49,The manuscript explores an experimental evaluation of neural networks. The methodology is sound and well-explained. I recommend acceptance after minor revisions.,True
+49,50,The manuscript explores a theoretical model for quantum computing. The methodology is sound and well-explained. Major revisions are necessary before acceptance.,True
+49,51,The authors propose a new framework for natural language processing. Some claims are not adequately substantiated. The paper fails to make a significant contribution.,False
+35,51,A comprehensive study is conducted on a new framework for natural language processing. The methodology is sound and well-explained. Consider for a poster presentation.,True
+3,51,An innovative approach is introduced in a new framework for natural language processing. The methodology is sound and well-explained. The paper should be rejected due to insufficient contributions.,False
+29,51,The manuscript explores a new framework for natural language processing. The methodology is sound and well-explained. The paper should be rejected due to insufficient contributions.,False
+37,51,The manuscript explores a new framework for natural language processing. The approach lacks sufficient experimental support. Consider for a poster presentation.,True
+36,52,This paper presents a new framework for natural language processing. The paper is well-structured and easy to follow. The paper should be rejected due to insufficient contributions.,False
+17,52,A comprehensive study is conducted on a novel method for data analysis. Results are promising but require further validation. The paper should be rejected due to insufficient contributions.,False
+31,52,This paper presents a new framework for natural language processing. The methodology is sound and well-explained. Consider for a poster presentation.,True
+12,52,The manuscript explores an in-depth review of machine learning techniques. The methodology is sound and well-explained. The methodology is flawed and lacks rigor.,False
+49,52,This paper presents an experimental evaluation of neural networks. The paper is well-structured and easy to follow. Major revisions are necessary before acceptance.,True
+39,53,The authors propose an in-depth review of machine learning techniques. Some claims are not adequately substantiated. Consider for a poster presentation.,True
+16,53,This paper presents a new framework for natural language processing. The paper is well-structured and easy to follow. The methodology is flawed and lacks rigor.,False
+24,53,A comprehensive study is conducted on a novel method for data analysis. The approach lacks sufficient experimental support. I recommend acceptance after minor revisions.,True
+37,54,A comprehensive study is conducted on an experimental evaluation of neural networks. The paper is well-structured and easy to follow. Accept with enthusiasm.,True
+25,54,A comprehensive study is conducted on a new framework for natural language processing. The paper is well-structured and easy to follow. The results do not support the conclusions drawn.,False
+46,54,The manuscript explores an experimental evaluation of neural networks. The approach lacks sufficient experimental support. The paper should be rejected due to insufficient contributions.,False
+20,55,This paper presents a new framework for natural language processing. The paper is well-structured and easy to follow. I recommend acceptance after minor revisions.,True
+5,55,The authors propose a novel method for data analysis. Results are promising but require further validation. Consider for a poster presentation.,True
+25,55,The manuscript explores an experimental evaluation of neural networks. The methodology is sound and well-explained. Consider for a poster presentation.,True
+31,55,This paper presents an experimental evaluation of neural networks. The approach lacks sufficient experimental support. The methodology is flawed and lacks rigor.,False
+15,55,A comprehensive study is conducted on an experimental evaluation of neural networks. The approach lacks sufficient experimental support. The paper should be rejected due to insufficient contributions.,False
+17,56,The authors propose a theoretical model for quantum computing. Some claims are not adequately substantiated. The paper should be rejected due to insufficient contributions.,False
+43,57,A comprehensive study is conducted on a novel method for data analysis. The approach lacks sufficient experimental support. I recommend acceptance after minor revisions.,True
+17,57,The authors propose an experimental evaluation of neural networks. The paper is well-structured and easy to follow. Consider for a poster presentation.,True
+28,57,The authors propose an in-depth review of machine learning techniques. Some claims are not adequately substantiated. Major revisions are necessary before acceptance.,True
+22,57,This paper presents an experimental evaluation of neural networks. Some claims are not adequately substantiated. The paper should be rejected due to insufficient contributions.,False
+40,57,The authors propose an in-depth review of machine learning techniques. The paper is well-structured and easy to follow. Consider for a poster presentation.,True
+8,58,An innovative approach is introduced in an in-depth review of machine learning techniques. The approach lacks sufficient experimental support. The paper should be rejected due to insufficient contributions.,False
+27,59,A comprehensive study is conducted on a novel method for data analysis. Some claims are not adequately substantiated. Major revisions are necessary before acceptance.,True
+38,60,The manuscript explores an experimental evaluation of neural networks. Some claims are not adequately substantiated. Accept with enthusiasm.,True
+45,61,This paper presents an experimental evaluation of neural networks. Some claims are not adequately substantiated. The paper fails to make a significant contribution.,False
+8,62,An innovative approach is introduced in an in-depth review of machine learning techniques. The paper is well-structured and easy to follow. Accept with enthusiasm.,True
+25,62,The authors propose an in-depth review of machine learning techniques. The approach lacks sufficient experimental support. Accept with enthusiasm.,True
+20,62,A comprehensive study is conducted on an in-depth review of machine learning techniques. The paper is well-structured and easy to follow. The methodology is flawed and lacks rigor.,False
+48,62,A comprehensive study is conducted on an in-depth review of machine learning techniques. Results are promising but require further validation. The methodology is flawed and lacks rigor.,False
+24,62,This paper presents an in-depth review of machine learning techniques. Some claims are not adequately substantiated. I recommend acceptance after minor revisions.,True
+36,63,A comprehensive study is conducted on a new framework for natural language processing. The methodology is sound and well-explained. Accept with enthusiasm.,True
+1,63,This paper presents a new framework for natural language processing. Results are promising but require further validation. The methodology is flawed and lacks rigor.,False
+13,63,A comprehensive study is conducted on a novel method for data analysis. Results are promising but require further validation. The methodology is flawed and lacks rigor.,False
+12,64,An innovative approach is introduced in a theoretical model for quantum computing. Results are promising but require further validation. Major revisions are necessary before acceptance.,True
+42,65,This paper presents a theoretical model for quantum computing. Results are promising but require further validation. I recommend acceptance after minor revisions.,True
+15,65,The authors propose an experimental evaluation of neural networks. The paper is well-structured and easy to follow. Consider for a poster presentation.,True
+24,65,A comprehensive study is conducted on an in-depth review of machine learning techniques. Some claims are not adequately substantiated. The results do not support the conclusions drawn.,False
+46,66,An innovative approach is introduced in a new framework for natural language processing. The methodology is sound and well-explained. Consider for a poster presentation.,True
+6,66,This paper presents an in-depth review of machine learning techniques. The methodology is sound and well-explained. Consider for a poster presentation.,True
+11,66,The authors propose a novel method for data analysis. Results are promising but require further validation. The paper should be rejected due to insufficient contributions.,False
+17,67,An innovative approach is introduced in a theoretical model for quantum computing. The approach lacks sufficient experimental support. The paper fails to make a significant contribution.,False
+34,67,A comprehensive study is conducted on an experimental evaluation of neural networks. The approach lacks sufficient experimental support. The results do not support the conclusions drawn.,False
+15,67,This paper presents a new framework for natural language processing. The paper is well-structured and easy to follow. I recommend acceptance after minor revisions.,True
+10,67,A comprehensive study is conducted on a novel method for data analysis. The approach lacks sufficient experimental support. The paper fails to make a significant contribution.,False
+47,67,The manuscript explores a theoretical model for quantum computing. The approach lacks sufficient experimental support. I recommend acceptance after minor revisions.,True
+35,68,The manuscript explores a new framework for natural language processing. The methodology is sound and well-explained. Consider for a poster presentation.,True
+48,68,A comprehensive study is conducted on a new framework for natural language processing. The approach lacks sufficient experimental support. The results do not support the conclusions drawn.,False
+6,68,This paper presents a novel method for data analysis. The methodology is sound and well-explained. The methodology is flawed and lacks rigor.,False
+20,68,An innovative approach is introduced in a theoretical model for quantum computing. The methodology is sound and well-explained. The methodology is flawed and lacks rigor.,False
+4,68,The authors propose an in-depth review of machine learning techniques. The methodology is sound and well-explained. Consider for a poster presentation.,True
+17,69,An innovative approach is introduced in a new framework for natural language processing. Some claims are not adequately substantiated. I recommend acceptance after minor revisions.,True
+45,70,The authors propose a theoretical model for quantum computing. Results are promising but require further validation. I recommend acceptance after minor revisions.,True
+25,71,An innovative approach is introduced in an in-depth review of machine learning techniques. The methodology is sound and well-explained. Accept with enthusiasm.,True
+26,72,The manuscript explores a novel method for data analysis. The paper is well-structured and easy to follow. Accept with enthusiasm.,True
+49,72,The manuscript explores an in-depth review of machine learning techniques. The paper is well-structured and easy to follow. Accept with enthusiasm.,True
+6,72,This paper presents a theoretical model for quantum computing. The methodology is sound and well-explained. Accept with enthusiasm.,True
+46,72,A comprehensive study is conducted on a theoretical model for quantum computing. The paper is well-structured and easy to follow. The paper should be rejected due to insufficient contributions.,False
+18,72,The manuscript explores a new framework for natural language processing. The approach lacks sufficient experimental support. The paper fails to make a significant contribution.,False
+41,73,This paper presents a new framework for natural language processing. Results are promising but require further validation. I recommend acceptance after minor revisions.,True
+13,73,An innovative approach is introduced in a novel method for data analysis. The approach lacks sufficient experimental support. The paper fails to make a significant contribution.,False
+18,73,This paper presents an experimental evaluation of neural networks. The paper is well-structured and easy to follow. The paper should be rejected due to insufficient contributions.,False
+37,74,An innovative approach is introduced in a novel method for data analysis. The approach lacks sufficient experimental support. The methodology is flawed and lacks rigor.,False
+14,75,The manuscript explores a novel method for data analysis. The approach lacks sufficient experimental support. Accept with enthusiasm.,True
+5,75,A comprehensive study is conducted on an experimental evaluation of neural networks. The paper is well-structured and easy to follow. Major revisions are necessary before acceptance.,True
+8,75,The authors propose a new framework for natural language processing. The approach lacks sufficient experimental support. Major revisions are necessary before acceptance.,True
+39,75,A comprehensive study is conducted on a new framework for natural language processing. The approach lacks sufficient experimental support. Major revisions are necessary before acceptance.,True
+19,75,This paper presents a theoretical model for quantum computing. Results are promising but require further validation. The results do not support the conclusions drawn.,False
+8,76,The authors propose a new framework for natural language processing. Results are promising but require further validation. The paper fails to make a significant contribution.,False
+3,77,The authors propose an in-depth review of machine learning techniques. The paper is well-structured and easy to follow. The paper fails to make a significant contribution.,False
+23,77,This paper presents a new framework for natural language processing. The approach lacks sufficient experimental support. The results do not support the conclusions drawn.,False
+19,77,The authors propose an in-depth review of machine learning techniques. Results are promising but require further validation. Accept with enthusiasm.,True
+23,78,This paper presents a new framework for natural language processing. The paper is well-structured and easy to follow. Accept with enthusiasm.,True
+27,78,This paper presents a new framework for natural language processing. The methodology is sound and well-explained. Accept with enthusiasm.,True
+13,78,An innovative approach is introduced in a new framework for natural language processing. Results are promising but require further validation. Major revisions are necessary before acceptance.,True
+35,78,A comprehensive study is conducted on an in-depth review of machine learning techniques. Some claims are not adequately substantiated. Consider for a poster presentation.,True
+22,78,An innovative approach is introduced in a theoretical model for quantum computing. Results are promising but require further validation. Consider for a poster presentation.,True
+24,79,A comprehensive study is conducted on a new framework for natural language processing. The approach lacks sufficient experimental support. The results do not support the conclusions drawn.,False
+32,80,A comprehensive study is conducted on a theoretical model for quantum computing. The approach lacks sufficient experimental support. The methodology is flawed and lacks rigor.,False
+10,80,This paper presents an in-depth review of machine learning techniques. The paper is well-structured and easy to follow. I recommend acceptance after minor revisions.,True
+37,80,An innovative approach is introduced in a novel method for data analysis. The approach lacks sufficient experimental support. Accept with enthusiasm.,True
+1,81,The authors propose an in-depth review of machine learning techniques. The methodology is sound and well-explained. Major revisions are necessary before acceptance.,True
+27,81,A comprehensive study is conducted on a novel method for data analysis. Results are promising but require further validation. The paper fails to make a significant contribution.,False
+6,81,An innovative approach is introduced in an in-depth review of machine learning techniques. The approach lacks sufficient experimental support. Consider for a poster presentation.,True
+19,82,The manuscript explores a new framework for natural language processing. Some claims are not adequately substantiated. Consider for a poster presentation.,True
+17,82,The manuscript explores a theoretical model for quantum computing. The methodology is sound and well-explained. Consider for a poster presentation.,True
+44,82,The manuscript explores an experimental evaluation of neural networks. Results are promising but require further validation. I recommend acceptance after minor revisions.,True
+23,82,This paper presents a new framework for natural language processing. The paper is well-structured and easy to follow. I recommend acceptance after minor revisions.,True
+25,82,An innovative approach is introduced in a theoretical model for quantum computing. The approach lacks sufficient experimental support. I recommend acceptance after minor revisions.,True
+37,83,The authors propose an in-depth review of machine learning techniques. The methodology is sound and well-explained. Consider for a poster presentation.,True
+25,83,This paper presents a theoretical model for quantum computing. Results are promising but require further validation. Consider for a poster presentation.,True
+44,83,A comprehensive study is conducted on an in-depth review of machine learning techniques. Results are promising but require further validation. Major revisions are necessary before acceptance.,True
+15,84,A comprehensive study is conducted on an in-depth review of machine learning techniques. The paper is well-structured and easy to follow. I recommend acceptance after minor revisions.,True
+21,84,The manuscript explores a novel method for data analysis. The paper is well-structured and easy to follow. Major revisions are necessary before acceptance.,True
+25,84,The manuscript explores a theoretical model for quantum computing. Some claims are not adequately substantiated. The methodology is flawed and lacks rigor.,False
+45,84,The manuscript explores an in-depth review of machine learning techniques. Some claims are not adequately substantiated. The paper fails to make a significant contribution.,False
+33,84,The authors propose a new framework for natural language processing. The paper is well-structured and easy to follow. Accept with enthusiasm.,True
+41,85,The authors propose a theoretical model for quantum computing. The paper is well-structured and easy to follow. The paper fails to make a significant contribution.,False
+20,86,A comprehensive study is conducted on an in-depth review of machine learning techniques. The approach lacks sufficient experimental support. The methodology is flawed and lacks rigor.,False
+10,87,The authors propose a new framework for natural language processing. Results are promising but require further validation. I recommend acceptance after minor revisions.,True
+14,88,A comprehensive study is conducted on an in-depth review of machine learning techniques. The paper is well-structured and easy to follow. The paper should be rejected due to insufficient contributions.,False
+40,88,An innovative approach is introduced in a theoretical model for quantum computing. The methodology is sound and well-explained. Consider for a poster presentation.,True
+48,88,An innovative approach is introduced in a theoretical model for quantum computing. The methodology is sound and well-explained. Consider for a poster presentation.,True
+10,89,An innovative approach is introduced in an in-depth review of machine learning techniques. The paper is well-structured and easy to follow. Consider for a poster presentation.,True
+26,89,The manuscript explores an in-depth review of machine learning techniques. The paper is well-structured and easy to follow. Major revisions are necessary before acceptance.,True
+45,89,This paper presents a theoretical model for quantum computing. The methodology is sound and well-explained. The results do not support the conclusions drawn.,False
+9,90,An innovative approach is introduced in an experimental evaluation of neural networks. The methodology is sound and well-explained. Major revisions are necessary before acceptance.,True
+15,90,This paper presents a novel method for data analysis. The paper is well-structured and easy to follow. Accept with enthusiasm.,True
+6,90,An innovative approach is introduced in a theoretical model for quantum computing. The approach lacks sufficient experimental support. Major revisions are necessary before acceptance.,True
+43,91,An innovative approach is introduced in a new framework for natural language processing. Some claims are not adequately substantiated. I recommend acceptance after minor revisions.,True
+16,92,The authors propose a new framework for natural language processing. The methodology is sound and well-explained. Major revisions are necessary before acceptance.,True
+47,92,A comprehensive study is conducted on a new framework for natural language processing. The approach lacks sufficient experimental support. Consider for a poster presentation.,True
+43,92,The manuscript explores an experimental evaluation of neural networks. The approach lacks sufficient experimental support. Accept with enthusiasm.,True
+40,93,The manuscript explores a theoretical model for quantum computing. Some claims are not adequately substantiated. Consider for a poster presentation.,True
+20,94,The manuscript explores an in-depth review of machine learning techniques. The paper is well-structured and easy to follow. The results do not support the conclusions drawn.,False
+40,95,This paper presents an experimental evaluation of neural networks. The approach lacks sufficient experimental support. Accept with enthusiasm.,True
+45,95,The manuscript explores a theoretical model for quantum computing. The paper is well-structured and easy to follow. Consider for a poster presentation.,True
+15,95,An innovative approach is introduced in an in-depth review of machine learning techniques. The paper is well-structured and easy to follow. The paper should be rejected due to insufficient contributions.,False
+35,96,The manuscript explores an in-depth review of machine learning techniques. The approach lacks sufficient experimental support. Accept with enthusiasm.,True
+45,97,This paper presents a novel method for data analysis. The paper is well-structured and easy to follow. Major revisions are necessary before acceptance.,True
+20,98,This paper presents an experimental evaluation of neural networks. The paper is well-structured and easy to follow. Consider for a poster presentation.,True
+1,98,This paper presents an experimental evaluation of neural networks. The paper is well-structured and easy to follow. Consider for a poster presentation.,True
+27,98,An innovative approach is introduced in an in-depth review of machine learning techniques. Results are promising but require further validation. Accept with enthusiasm.,True
+3,98,This paper presents an in-depth review of machine learning techniques. The methodology is sound and well-explained. The methodology is flawed and lacks rigor.,False
+19,98,This paper presents a theoretical model for quantum computing. Some claims are not adequately substantiated. The results do not support the conclusions drawn.,False
+36,99,The manuscript explores an in-depth review of machine learning techniques. The paper is well-structured and easy to follow. I recommend acceptance after minor revisions.,True
+26,99,An innovative approach is introduced in a theoretical model for quantum computing. The methodology is sound and well-explained. Accept with enthusiasm.,True
+21,99,An innovative approach is introduced in a novel method for data analysis. Results are promising but require further validation. Consider for a poster presentation.,True
+45,100,A comprehensive study is conducted on a new framework for natural language processing. The paper is well-structured and easy to follow. The results do not support the conclusions drawn.,False
+13,100,This paper presents a theoretical model for quantum computing. The paper is well-structured and easy to follow. Consider for a poster presentation.,True
+31,100,The manuscript explores a new framework for natural language processing. The methodology is sound and well-explained. The paper should be rejected due to insufficient contributions.,False
+25,101,A comprehensive study is conducted on a theoretical model for quantum computing. Some claims are not adequately substantiated. Major revisions are necessary before acceptance.,True
+17,102,An innovative approach is introduced in an experimental evaluation of neural networks. Some claims are not adequately substantiated. The paper should be rejected due to insufficient contributions.,False
+40,102,This paper presents a theoretical model for quantum computing. The approach lacks sufficient experimental support. Consider for a poster presentation.,True
+45,102,A comprehensive study is conducted on a theoretical model for quantum computing. The paper is well-structured and easy to follow. Consider for a poster presentation.,True
+24,103,The authors propose a theoretical model for quantum computing. The methodology is sound and well-explained. The results do not support the conclusions drawn.,False
+33,104,The authors propose an experimental evaluation of neural networks. The approach lacks sufficient experimental support. Accept with enthusiasm.,True
+4,104,The manuscript explores a new framework for natural language processing. The paper is well-structured and easy to follow. The results do not support the conclusions drawn.,False
+36,104,An innovative approach is introduced in a theoretical model for quantum computing. Results are promising but require further validation. Consider for a poster presentation.,True
+28,104,The authors propose a theoretical model for quantum computing. The methodology is sound and well-explained. I recommend acceptance after minor revisions.,True
+7,104,An innovative approach is introduced in an in-depth review of machine learning techniques. Some claims are not adequately substantiated. I recommend acceptance after minor revisions.,True
+22,105,An innovative approach is introduced in an experimental evaluation of neural networks. The methodology is sound and well-explained. Accept with enthusiasm.,True
+20,105,A comprehensive study is conducted on an in-depth review of machine learning techniques. The paper is well-structured and easy to follow. Major revisions are necessary before acceptance.,True
+46,105,This paper presents an in-depth review of machine learning techniques. Some claims are not adequately substantiated. I recommend acceptance after minor revisions.,True
+35,105,The authors propose a new framework for natural language processing. Some claims are not adequately substantiated. The results do not support the conclusions drawn.,False
+43,105,The authors propose an experimental evaluation of neural networks. Some claims are not adequately substantiated. I recommend acceptance after minor revisions.,True
+50,106,The manuscript explores a theoretical model for quantum computing. The approach lacks sufficient experimental support. Accept with enthusiasm.,True
+21,107,An innovative approach is introduced in a theoretical model for quantum computing. Results are promising but require further validation. I recommend acceptance after minor revisions.,True
+47,107,An innovative approach is introduced in a novel method for data analysis. Some claims are not adequately substantiated. Accept with enthusiasm.,True
+3,107,A comprehensive study is conducted on a novel method for data analysis. The methodology is sound and well-explained. The paper should be rejected due to insufficient contributions.,False
+46,107,The manuscript explores a new framework for natural language processing. Some claims are not adequately substantiated. Accept with enthusiasm.,True
+32,107,The manuscript explores an in-depth review of machine learning techniques. The paper is well-structured and easy to follow. Consider for a poster presentation.,True
+34,108,A comprehensive study is conducted on a novel method for data analysis. The approach lacks sufficient experimental support. Consider for a poster presentation.,True
+2,109,An innovative approach is introduced in a novel method for data analysis. Results are promising but require further validation. Consider for a poster presentation.,True
+48,110,A comprehensive study is conducted on a novel method for data analysis. The paper is well-structured and easy to follow. Consider for a poster presentation.,True
+17,110,This paper presents a novel method for data analysis. The paper is well-structured and easy to follow. Consider for a poster presentation.,True
+24,110,The authors propose a new framework for natural language processing. The paper is well-structured and easy to follow. Major revisions are necessary before acceptance.,True
+31,111,An innovative approach is introduced in a novel method for data analysis. Results are promising but require further validation. Major revisions are necessary before acceptance.,True
+46,111,This paper presents a theoretical model for quantum computing. The paper is well-structured and easy to follow. Accept with enthusiasm.,True
+45,111,A comprehensive study is conducted on a theoretical model for quantum computing. The methodology is sound and well-explained. The paper fails to make a significant contribution.,False
+38,111,This paper presents an experimental evaluation of neural networks. The methodology is sound and well-explained. I recommend acceptance after minor revisions.,True
+27,111,A comprehensive study is conducted on an in-depth review of machine learning techniques. The methodology is sound and well-explained. The paper should be rejected due to insufficient contributions.,False
+2,112,A comprehensive study is conducted on an in-depth review of machine learning techniques. The paper is well-structured and easy to follow. Major revisions are necessary before acceptance.,True
+20,112,The authors propose an experimental evaluation of neural networks. Some claims are not adequately substantiated. Consider for a poster presentation.,True
+30,112,The authors propose a novel method for data analysis. The approach lacks sufficient experimental support. Major revisions are necessary before acceptance.,True
+40,113,A comprehensive study is conducted on an in-depth review of machine learning techniques. The methodology is sound and well-explained. Consider for a poster presentation.,True
+42,113,An innovative approach is introduced in a theoretical model for quantum computing. Results are promising but require further validation. I recommend acceptance after minor revisions.,True
+28,113,The authors propose an experimental evaluation of neural networks. Results are promising but require further validation. I recommend acceptance after minor revisions.,True
+5,113,A comprehensive study is conducted on an in-depth review of machine learning techniques. Some claims are not adequately substantiated. The methodology is flawed and lacks rigor.,False
+30,113,A comprehensive study is conducted on a new framework for natural language processing. The methodology is sound and well-explained. The results do not support the conclusions drawn.,False
+36,114,An innovative approach is introduced in a novel method for data analysis. The methodology is sound and well-explained. Accept with enthusiasm.,True
+33,114,An innovative approach is introduced in an in-depth review of machine learning techniques. Some claims are not adequately substantiated. Accept with enthusiasm.,True
+10,114,This paper presents a novel method for data analysis. The approach lacks sufficient experimental support. Accept with enthusiasm.,True
+17,115,The manuscript explores a theoretical model for quantum computing. Results are promising but require further validation. Consider for a poster presentation.,True
+49,116,This paper presents a new framework for natural language processing. The methodology is sound and well-explained. I recommend acceptance after minor revisions.,True
+27,116,This paper presents an in-depth review of machine learning techniques. The paper is well-structured and easy to follow. I recommend acceptance after minor revisions.,True
+36,116,This paper presents an in-depth review of machine learning techniques. The approach lacks sufficient experimental support. The paper fails to make a significant contribution.,False
+44,116,A comprehensive study is conducted on an in-depth review of machine learning techniques. Some claims are not adequately substantiated. I recommend acceptance after minor revisions.,True
+10,116,This paper presents a theoretical model for quantum computing. The paper is well-structured and easy to follow. Major revisions are necessary before acceptance.,True
+10,117,A comprehensive study is conducted on a novel method for data analysis. The paper is well-structured and easy to follow. Consider for a poster presentation.,True
+30,117,The manuscript explores a new framework for natural language processing. The methodology is sound and well-explained. Major revisions are necessary before acceptance.,True
+42,117,An innovative approach is introduced in a theoretical model for quantum computing. The paper is well-structured and easy to follow. Major revisions are necessary before acceptance.,True
+49,118,The manuscript explores a new framework for natural language processing. The methodology is sound and well-explained. Consider for a poster presentation.,True
+12,119,This paper presents an in-depth review of machine learning techniques. Results are promising but require further validation. I recommend acceptance after minor revisions.,True
+15,120,A comprehensive study is conducted on an in-depth review of machine learning techniques. The methodology is sound and well-explained. The paper should be rejected due to insufficient contributions.,False
+11,120,The authors propose an experimental evaluation of neural networks. The methodology is sound and well-explained. Major revisions are necessary before acceptance.,True
+42,120,A comprehensive study is conducted on a novel method for data analysis. Some claims are not adequately substantiated. Accept with enthusiasm.,True
+9,120,The authors propose a new framework for natural language processing. The approach lacks sufficient experimental support. The results do not support the conclusions drawn.,False
+22,120,An innovative approach is introduced in a new framework for natural language processing. The paper is well-structured and easy to follow. Consider for a poster presentation.,True
+44,121,The manuscript explores a novel method for data analysis. Results are promising but require further validation. Consider for a poster presentation.,True
+39,121,An innovative approach is introduced in a new framework for natural language processing. The methodology is sound and well-explained. The paper should be rejected due to insufficient contributions.,False
+21,121,The authors propose a theoretical model for quantum computing. Results are promising but require further validation. Major revisions are necessary before acceptance.,True
+4,122,The authors propose a novel method for data analysis. The approach lacks sufficient experimental support. I recommend acceptance after minor revisions.,True
+33,122,An innovative approach is introduced in an in-depth review of machine learning techniques. Some claims are not adequately substantiated. Major revisions are necessary before acceptance.,True
+39,122,A comprehensive study is conducted on a theoretical model for quantum computing. The approach lacks sufficient experimental support. I recommend acceptance after minor revisions.,True
+23,122,This paper presents a theoretical model for quantum computing. Some claims are not adequately substantiated. The paper fails to make a significant contribution.,False
+10,122,A comprehensive study is conducted on an in-depth review of machine learning techniques. Results are promising but require further validation. Consider for a poster presentation.,True
+24,123,This paper presents a theoretical model for quantum computing. Results are promising but require further validation. The results do not support the conclusions drawn.,False
+29,123,A comprehensive study is conducted on a new framework for natural language processing. Some claims are not adequately substantiated. I recommend acceptance after minor revisions.,True
+4,123,The manuscript explores an experimental evaluation of neural networks. Some claims are not adequately substantiated. The paper fails to make a significant contribution.,False
+12,124,An innovative approach is introduced in a new framework for natural language processing. Some claims are not adequately substantiated. The paper should be rejected due to insufficient contributions.,False
+18,125,The authors propose an in-depth review of machine learning techniques. Some claims are not adequately substantiated. Consider for a poster presentation.,True
+11,125,The authors propose an in-depth review of machine learning techniques. The paper is well-structured and easy to follow. The paper should be rejected due to insufficient contributions.,False
+39,125,A comprehensive study is conducted on an experimental evaluation of neural networks. Results are promising but require further validation. Major revisions are necessary before acceptance.,True
+43,125,A comprehensive study is conducted on a theoretical model for quantum computing. The methodology is sound and well-explained. Consider for a poster presentation.,True
+19,125,A comprehensive study is conducted on a new framework for natural language processing. Some claims are not adequately substantiated. Accept with enthusiasm.,True
+33,126,The authors propose an in-depth review of machine learning techniques. Results are promising but require further validation. Accept with enthusiasm.,True
+12,127,A comprehensive study is conducted on an in-depth review of machine learning techniques. Results are promising but require further validation. Accept with enthusiasm.,True
+35,127,The authors propose a theoretical model for quantum computing. Some claims are not adequately substantiated. Major revisions are necessary before acceptance.,True
+38,127,This paper presents an experimental evaluation of neural networks. The paper is well-structured and easy to follow. I recommend acceptance after minor revisions.,True
+46,128,An innovative approach is introduced in an experimental evaluation of neural networks. The approach lacks sufficient experimental support. Major revisions are necessary before acceptance.,True
+16,128,An innovative approach is introduced in a new framework for natural language processing. The paper is well-structured and easy to follow. The paper should be rejected due to insufficient contributions.,False
+32,128,The manuscript explores a new framework for natural language processing. Some claims are not adequately substantiated. Major revisions are necessary before acceptance.,True
+5,129,This paper presents a theoretical model for quantum computing. Results are promising but require further validation. Consider for a poster presentation.,True
+42,129,The manuscript explores a new framework for natural language processing. The methodology is sound and well-explained. I recommend acceptance after minor revisions.,True
+7,129,This paper presents a theoretical model for quantum computing. The approach lacks sufficient experimental support. Major revisions are necessary before acceptance.,True
+4,129,The authors propose a theoretical model for quantum computing. The approach lacks sufficient experimental support. I recommend acceptance after minor revisions.,True
+16,129,The manuscript explores a novel method for data analysis. The paper is well-structured and easy to follow. Major revisions are necessary before acceptance.,True
+16,130,The manuscript explores a new framework for natural language processing. The paper is well-structured and easy to follow. Accept with enthusiasm.,True
+3,131,A comprehensive study is conducted on a new framework for natural language processing. Some claims are not adequately substantiated. Major revisions are necessary before acceptance.,True
+26,132,The manuscript explores a new framework for natural language processing. The approach lacks sufficient experimental support. The paper should be rejected due to insufficient contributions.,False
+37,132,A comprehensive study is conducted on a theoretical model for quantum computing. The paper is well-structured and easy to follow. Major revisions are necessary before acceptance.,True
+10,132,The authors propose a new framework for natural language processing. The paper is well-structured and easy to follow. Accept with enthusiasm.,True
+11,132,The authors propose a new framework for natural language processing. Results are promising but require further validation. Consider for a poster presentation.,True
+35,132,An innovative approach is introduced in a theoretical model for quantum computing. Results are promising but require further validation. I recommend acceptance after minor revisions.,True
+47,133,A comprehensive study is conducted on an experimental evaluation of neural networks. Results are promising but require further validation. The paper should be rejected due to insufficient contributions.,False
+21,133,This paper presents a novel method for data analysis. The methodology is sound and well-explained. I recommend acceptance after minor revisions.,True
+8,133,An innovative approach is introduced in a novel method for data analysis. Some claims are not adequately substantiated. Major revisions are necessary before acceptance.,True
+19,133,The authors propose an experimental evaluation of neural networks. The approach lacks sufficient experimental support. Consider for a poster presentation.,True
+16,133,The manuscript explores an in-depth review of machine learning techniques. The approach lacks sufficient experimental support. I recommend acceptance after minor revisions.,True
+31,134,An innovative approach is introduced in a theoretical model for quantum computing. The approach lacks sufficient experimental support. Major revisions are necessary before acceptance.,True
+6,134,An innovative approach is introduced in a novel method for data analysis. Results are promising but require further validation. Accept with enthusiasm.,True
+9,134,This paper presents an experimental evaluation of neural networks. Some claims are not adequately substantiated. Consider for a poster presentation.,True
+16,135,An innovative approach is introduced in an experimental evaluation of neural networks. The paper is well-structured and easy to follow. I recommend acceptance after minor revisions.,True
+15,135,This paper presents a novel method for data analysis. Some claims are not adequately substantiated. The methodology is flawed and lacks rigor.,False
+26,135,The authors propose an in-depth review of machine learning techniques. The methodology is sound and well-explained. I recommend acceptance after minor revisions.,True
+46,136,This paper presents a novel method for data analysis. Some claims are not adequately substantiated. I recommend acceptance after minor revisions.,True
+11,136,The authors propose an in-depth review of machine learning techniques. The paper is well-structured and easy to follow. Accept with enthusiasm.,True
+27,136,An innovative approach is introduced in an in-depth review of machine learning techniques. The methodology is sound and well-explained. Accept with enthusiasm.,True
+49,137,The authors propose an in-depth review of machine learning techniques. The methodology is sound and well-explained. Consider for a poster presentation.,True
+50,137,The authors propose an experimental evaluation of neural networks. The methodology is sound and well-explained. I recommend acceptance after minor revisions.,True
+42,137,The authors propose a new framework for natural language processing. The approach lacks sufficient experimental support. Accept with enthusiasm.,True
+32,138,An innovative approach is introduced in an in-depth review of machine learning techniques. Some claims are not adequately substantiated. The methodology is flawed and lacks rigor.,False
+37,138,A comprehensive study is conducted on a novel method for data analysis. The approach lacks sufficient experimental support. I recommend acceptance after minor revisions.,True
+48,138,The manuscript explores a novel method for data analysis. Some claims are not adequately substantiated. I recommend acceptance after minor revisions.,True
+34,138,A comprehensive study is conducted on a novel method for data analysis. Some claims are not adequately substantiated. Consider for a poster presentation.,True
+41,138,The authors propose an experimental evaluation of neural networks. The methodology is sound and well-explained. Consider for a poster presentation.,True
+37,139,A comprehensive study is conducted on a theoretical model for quantum computing. Results are promising but require further validation. The paper should be rejected due to insufficient contributions.,False
+16,139,The authors propose a novel method for data analysis. The paper is well-structured and easy to follow. Major revisions are necessary before acceptance.,True
+28,139,A comprehensive study is conducted on a new framework for natural language processing. Some claims are not adequately substantiated. Accept with enthusiasm.,True
+40,139,An innovative approach is introduced in a novel method for data analysis. Some claims are not adequately substantiated. Accept with enthusiasm.,True
+5,139,The manuscript explores an experimental evaluation of neural networks. The approach lacks sufficient experimental support. The paper fails to make a significant contribution.,False
+36,140,The manuscript explores a novel method for data analysis. The paper is well-structured and easy to follow. Major revisions are necessary before acceptance.,True
+5,141,A comprehensive study is conducted on a novel method for data analysis. The approach lacks sufficient experimental support. I recommend acceptance after minor revisions.,True
+9,142,This paper presents an in-depth review of machine learning techniques. Some claims are not adequately substantiated. Consider for a poster presentation.,True
+1,142,An innovative approach is introduced in a new framework for natural language processing. The methodology is sound and well-explained. Consider for a poster presentation.,True
+18,142,The authors propose an experimental evaluation of neural networks. The paper is well-structured and easy to follow. The paper fails to make a significant contribution.,False
+40,142,An innovative approach is introduced in a theoretical model for quantum computing. Results are promising but require further validation. Consider for a poster presentation.,True
+24,142,The authors propose a new framework for natural language processing. Some claims are not adequately substantiated. Major revisions are necessary before acceptance.,True
+27,143,The manuscript explores a novel method for data analysis. The methodology is sound and well-explained. Consider for a poster presentation.,True
+14,143,This paper presents a theoretical model for quantum computing. The methodology is sound and well-explained. Major revisions are necessary before acceptance.,True
+30,143,This paper presents a novel method for data analysis. The paper is well-structured and easy to follow. Major revisions are necessary before acceptance.,True
+39,144,The authors propose a new framework for natural language processing. The paper is well-structured and easy to follow. I recommend acceptance after minor revisions.,True
+44,145,A comprehensive study is conducted on an experimental evaluation of neural networks. Some claims are not adequately substantiated. The paper fails to make a significant contribution.,False
+28,145,This paper presents a theoretical model for quantum computing. The approach lacks sufficient experimental support. The methodology is flawed and lacks rigor.,False
+27,145,The authors propose a novel method for data analysis. The approach lacks sufficient experimental support. The paper should be rejected due to insufficient contributions.,False
+33,146,An innovative approach is introduced in a theoretical model for quantum computing. The methodology is sound and well-explained. Accept with enthusiasm.,True
+19,146,This paper presents an in-depth review of machine learning techniques. The approach lacks sufficient experimental support. I recommend acceptance after minor revisions.,True
+9,146,An innovative approach is introduced in a new framework for natural language processing. Results are promising but require further validation. Accept with enthusiasm.,True
+35,146,The manuscript explores an experimental evaluation of neural networks. The paper is well-structured and easy to follow. Consider for a poster presentation.,True
+29,146,A comprehensive study is conducted on a new framework for natural language processing. The methodology is sound and well-explained. Major revisions are necessary before acceptance.,True
+11,147,The manuscript explores an in-depth review of machine learning techniques. The approach lacks sufficient experimental support. Major revisions are necessary before acceptance.,True
+38,148,An innovative approach is introduced in an experimental evaluation of neural networks. Some claims are not adequately substantiated. The paper fails to make a significant contribution.,False
+11,149,A comprehensive study is conducted on an in-depth review of machine learning techniques. The paper is well-structured and easy to follow. Major revisions are necessary before acceptance.,True
+2,150,The manuscript explores a novel method for data analysis. The paper is well-structured and easy to follow. Consider for a poster presentation.,True
+50,150,This paper presents a novel method for data analysis. The approach lacks sufficient experimental support. Accept with enthusiasm.,True
+11,150,The authors propose an in-depth review of machine learning techniques. The methodology is sound and well-explained. The results do not support the conclusions drawn.,False
