@@ -1,4 +1,4 @@
-//A3_03_instantiate_data
+//A3_03_populate_data
 
 // Update property of affiliation of Authors with new csv
 LOAD CSV WITH HEADERS FROM 'file:///data_lab1/authors_additional_properties.csv' AS row
